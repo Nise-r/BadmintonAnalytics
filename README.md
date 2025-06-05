@@ -5,13 +5,16 @@
 ## 🎨 Demo
 
 1. YOLO player detection:
-![Alt text](images/img1.png)
+![Yolo Demo](https://github.com/user-attachments/assets/6d2f737e-925c-4220-bdf8-6a1e6ce30f1f)
 
 2. TrackNet Model detection:
-![Badminton Demo](demo.gif) *(Replace with an actual demo GIF/video)*  
 
-3. Action Recognition Model:
-![Badminton Demo](demo.gif) *(Replace with an actual demo GIF/video)* 
+   ![Tracknet Demo](https://github.com/user-attachments/assets/d764f03d-37e0-471f-8bf5-e754753fb881)
+
+
+4. Action Recognition Model:
+![Action Lstm](https://github.com/user-attachments/assets/85e86c9a-22d7-41d4-ad3e-2ed835d8abeb)
+
 
 ## 📌 Overview  
 This project is a comprehensive computer vision system for analyzing badminton matches. It includes:  
